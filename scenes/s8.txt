@@ -1,0 +1,7 @@
+plane 0 0 0 0 0 1 0 100 0 0 2
+cylinder -5 -5 0 1 0 0 100 0 0 0 2
+cylinder -5 -5 0 0 1 0 100 0 0 0 2
+cylinder 5 5 0 1 0 0 100 0 0 0 2
+cylinder 5 5 0 0 1 0 100 0 0 0 2
+cam -0 0 -15 0 0 1
+light 0 0 -100
